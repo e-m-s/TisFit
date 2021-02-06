@@ -1,5 +1,5 @@
 # TisFit pro týden od 8. února 2021
-On-line kroužek všestranného cvičení pro kluky
+On-line kroužek všestranného cvičení.
 
 <strong style="color: green;">Tato stránka teprve vzniká, určitě se můžete těšit na vylepšení!</strong>
 
@@ -7,9 +7,9 @@ On-line kroužek všestranného cvičení pro kluky
 * Najděte si ve svém okolí hřiště s basketbalovým košem.
 * Zkuste během týdne alespoň 40× hodit na basketbalový koš a&nbsp;pokuste se trefit co nejvíc zásahů.
 * Pokud se vám nedaří koš zasáhnout, nevadí. Snaha se počítá a&nbsp;chceme po vás prostě 40 poctivých pokusů o&nbsp;zásah.
-* Nevadí, že nemáte basketbalový mít. Je jedno, jaký míč či míček použijete — klidně hažte tenisákem nebo třeba zmačkejte staré noviny a vyrobte si „míč“ z nic. Věřím, že nějaký míč, míček či „míč“ doma najdete.
+* Nevadí, že nemáte basketbalový míč. Je jedno, jaký míč či míček použijete — klidně hažte tenisákem nebo třeba zmačkejte staré noviny a vyrobte si „míč“ z nic. Věřím, že nějaký míč, míček či „míč“ doma najdete.
 
-![Střelba na basketbalový koš](obrazky/aktivita_strelba-na-kos.png)
+![Střelba na basketbalový koš](obrazky/aktivita_hod-na-kos.png)
 
 ## 2. Výzva pro tento týden &mdash; cvičení doma
 * Tento týden zkuste každý den 10 sed-lehů.

@@ -1,4 +1,4 @@
-# TisTrain
+# TisFit
 On-line kroužek všestranného cvičení pro kluky
 
 <strong style="color: green;">Tato stránka teprve vzniká, určitě se můžete těšit na vylepšení!</strong>

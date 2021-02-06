@@ -18,7 +18,7 @@ On-line kroužek všestranného cvičení.
 ![Sed-leh](obrazky/cvik_sed-leh.png)
 
 ## 3. Vycházka pro tento týden (pro cvičence z&nbsp;Uherského Hradiště)?
-* Byli jste někdy na Rochusu? Asi jo. Jestli už je to dávno, nebo jste tam nebyli, zkuste se tam vypravit.
+* Byli jste někdy na Rochusu? Asi jo. Jestli už je to dávno, nebo jste tam nebyli, zkuste se tam vypravit!
 
 <div style="color: red; background-color: yellow">POZOR! Prosím, dodržujte veškerá vládní opatření. Choďte jen v&nbsp;počtu, který aktuální opatření dovolují, snažte se nepotkávat se s&nbsp;dalšími. Noste roušky či respirátory tam, kde je větší pohyb lidí. Cíle volíme tak, aby byli v&nbsp;přírodě v&nbsp;místech, kde je pohyb lidí menší. Ale v&nbsp;hezkých dnech samozřejmě vyráží do přírody hodně lidí, respektujte se navzájem a&nbsp;buďte opatrní!</div>
 
@@ -39,5 +39,5 @@ On-line kroužek všestranného cvičení.
 
 
 ## Co je TisFit?
-* Stránka vznikla pro cvičence Sokola Uherské Hradiště jako kompenzace za cvičení v&nbsp;době, kdy cvičení v&nbsp;tělocvičně vládní opatření neumožňují.
+* Stránka vznikla pro cvičence Sokola Uherské Hradiště jako dílčí kompenzace za cvičení v&nbsp;době, kdy cvičení v&nbsp;tělocvičně vládní opatření neumožňují.
 * Naše tipy na cvičení ale nabízíme všem bez rozdílu. Přidejte se, sdílejte, šiřte! Jsme tu pro radost z&nbsp;pohybu a&nbsp;máme radost, že s&nbsp;námi cvičíte!

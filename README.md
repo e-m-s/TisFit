@@ -1,5 +1,7 @@
 # TisFit pro týden od 15. února 2021
-On-line kroužek všestranného cvičení.
+Tipy na pohybové aktivity nejen v Uh. Hradišti.
+
+<div style="color: red; background-color: yellow">Tato stránka není nabídkou tréninkového programu. Pokud se necháte inspirovat, vždy přihlédněte k&nbsp;dlouhodobému i&nbsp;aktuálním zdravotnímu stavu a&nbsp;aktuální situaci. Respektujte vládní opatření, buďte ohleduplní ke svému okolí a&nbsp;respektujte práva ostatních!</div>
 
 ## 1. Aktivita pro tento týden
 * Máme tu sníh a&nbsp;zatím vypadá, že drží.
@@ -44,7 +46,7 @@ On-line kroužek všestranného cvičení.
 - Odkaz pro přidání je zde: 
 https://join.slack.com/t/tisfit/shared_invite/zt-mqhvuxps-BDaZZ8jwNGXbvjdNCjF8eA
 - Slack můžete používat v&nbsp;prohlížeči nebo si můžete nainstalovat aplikaci do počítače či mobilu.
-- Můžete se pochlubit, jak vám jde plnění aktivit.
+- Můžete se pochlubit, jak vám jde plnění aktivit, dát ostatním tipy, nebo prostě jen sdílet radost z&nbsp;pohybu. Záleží jen na vás.
 
 ### Společné on-line rozcvičky ve čtvrtek
 - Máte-li chuť, přijďte se rozcvičit ve čtvrtek v 17:45.
@@ -52,5 +54,5 @@ https://join.slack.com/t/tisfit/shared_invite/zt-mqhvuxps-BDaZZ8jwNGXbvjdNCjF8eA
 
 
 ## Co je TisFit?
-* Stránka vznikla pro cvičence Sokola Uherské Hradiště jako dílčí kompenzace za cvičení v&nbsp;době, kdy cvičení v&nbsp;tělocvičně vládní opatření neumožňují.
+* Stránka vznikla původně pro cvičence Sokola Uherské Hradiště jako dílčí kompenzace za podzim 2020, kdy cvičení v&nbsp;tělocvičně vládní opatření neumožňovala.
 * Naše tipy na cvičení ale nabízíme všem bez rozdílu. Přidejte se, sdílejte, šiřte! Jsme tu pro radost z&nbsp;pohybu a&nbsp;máme radost, že s&nbsp;námi cvičíte!

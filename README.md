@@ -1,7 +1,7 @@
 # TisFit pro týden od 15. února 2021
 Tipy na pohybové aktivity nejen v Uh. Hradišti.
 
-<div style="color: red; background-color: yellow">Tato stránka není nabídkou tréninkového programu. Pokud se necháte inspirovat, vždy přihlédněte k&nbsp;dlouhodobému i&nbsp;aktuálním zdravotnímu stavu a&nbsp;aktuální situaci. Respektujte vládní opatření, buďte ohleduplní ke svému okolí a&nbsp;respektujte práva ostatních!</div>
+<strong><div style="color: red; background-color: yellow">Tato stránka není nabídkou tréninkového programu. Pokud se necháte inspirovat, vždy přihlédněte k&nbsp;dlouhodobému i&nbsp;aktuálním zdravotnímu stavu a&nbsp;aktuální situaci. Respektujte vládní opatření, buďte ohleduplní ke svému okolí a&nbsp;respektujte práva ostatních!</div></strong>
 
 ## 1. Aktivita pro tento týden
 * Máme tu sníh a&nbsp;zatím vypadá, že drží.
@@ -25,7 +25,7 @@ Tipy na pohybové aktivity nejen v Uh. Hradišti.
 ## 3. Vycházka pro tento týden (pro cvičence z&nbsp;Uherského Hradiště)?
 * Byli jste někdy na Rochusu? Asi jo. Jestli už je to dávno, nebo jste tam nebyli, zkuste se tam vypravit!
 
-<div style="color: red; background-color: yellow">POZOR! Prosím, dodržujte veškerá vládní opatření. Choďte jen v&nbsp;počtu, který aktuální opatření dovolují, snažte se nepotkávat se s&nbsp;dalšími. Noste roušky či respirátory tam, kde je větší pohyb lidí. Cíle volíme tak, aby byli v&nbsp;přírodě v&nbsp;místech, kde je pohyb lidí menší. Ale v&nbsp;hezkých dnech samozřejmě vyráží do přírody hodně lidí, respektujte se navzájem a&nbsp;buďte opatrní!</div>
+<strong><div style="color: red; background-color: yellow">POZOR! Prosím, dodržujte veškerá vládní opatření. Choďte jen v&nbsp;počtu, který aktuální opatření dovolují, snažte se nepotkávat se s&nbsp;dalšími. Noste roušky či respirátory tam, kde je větší pohyb lidí. Cíle volíme tak, aby byli v&nbsp;přírodě v&nbsp;místech, kde je pohyb lidí menší. Ale v&nbsp;hezkých dnech samozřejmě vyráží do přírody hodně lidí, respektujte se navzájem a&nbsp;buďte opatrní!</div></strong>
 
 ### Parkování
 * Parkovat lze například u&nbsp;Kauflandu. 

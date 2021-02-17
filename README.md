@@ -1,5 +1,5 @@
 # TisFit pro týden od 15. února 2021
-Tipy na pohybové aktivity nejen v Uh. Hradišti.
+Tipy na pohybové aktivity nejen v Uh. Hradišti zejména pro děti (každého věku).
 
 <strong><div style="color: red; background-color: yellow">Tato stránka není nabídkou tréninkového programu. Pokud se necháte inspirovat, vždy přihlédněte k&nbsp;dlouhodobému i&nbsp;aktuálním zdravotnímu stavu a&nbsp;aktuální situaci. Respektujte vládní opatření, buďte ohleduplní ke svému okolí a&nbsp;respektujte práva ostatních!</div></strong>
 

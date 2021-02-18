@@ -51,6 +51,7 @@ https://join.slack.com/t/tisfit/shared_invite/zt-mqhvuxps-BDaZZ8jwNGXbvjdNCjF8eA
 ### Společné on-line rozcvičky ve čtvrtek
 - Máte-li chuť, přijďte se rozcvičit ve čtvrtek v 17:45.
 - Odkaz pro připojení zveřejníme v aplikaci Slack zhruba 15&nbsp;minut předem.
+- Pro dnes ji dáváme i sem: https://meet.google.com/zpr-gwpu-dpa
 
 
 ## Co je TisFit?

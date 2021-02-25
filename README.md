@@ -1,5 +1,5 @@
 # TisFit od 25. února 2021
-Tipy na pohybové aktivity nejen v Uh. Hradišti zejména pro děti (každého věku).
+Tipy na pohybové aktivity zejména pro děti (každého věku).
 
 <strong style="color: red; background-color: yellow"><div style="color: red; background-color: yellow">Tato stránka není nabídkou tréninkového programu. Pokud se necháte inspirovat, vždy přihlédněte k&nbsp;dlouhodobému i&nbsp;aktuálním zdravotnímu stavu a&nbsp;aktuální situaci. Respektujte vládní opatření, buďte ohleduplní ke svému okolí a&nbsp;respektujte práva ostatních!</div></strong>
 
@@ -53,10 +53,9 @@ Odkaz na Mapy.cz: https://mapy.cz/s/fahemefeko
 
 ## Chcete se potkat či komunikovat alespoň on-line?
 
-### Společné on-line rozcvičky ve čtvrtek
-- Každý čtvrtek od 17:45.
-- Sejdeme se na adrese: https://meet.google.com/zpr-gwpu-dpa
-- Stačí libovolný prohlížeč a&nbsp;reproduktor. Mikrofon nepotřebujete.
+### Společné on-line rozcvičky každý čtvrtek 17:45
+- Připojte se pomocí odkazu odkazu: https://meet.google.com/zpr-gwpu-dpa
+- Stačí libovolný prohlížeč a&nbsp;reproduktor. Mikrofon nepotřebujete. Funguje i&nbsp;v&nbsp;mobilu.
 
 ### Slack pro novinky a společnou diskusi
 - Můžete se přidat do týmu v rámci aplikace Slack. Slack je obdoba Messengeru, ale není svázána s&nbsp;žádnou sociální sítí a&nbsp;nevyžaduje vytvoření klasického účtu, stačí zadat jen e-mail.

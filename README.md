@@ -3,7 +3,7 @@ Tipy na pohybové aktivity nejen v Uh. Hradišti zejména pro děti (každého v
 
 <strong style="color: red; background-color: yellow"><div style="color: red; background-color: yellow">Tato stránka není nabídkou tréninkového programu. Pokud se necháte inspirovat, vždy přihlédněte k&nbsp;dlouhodobému i&nbsp;aktuálním zdravotnímu stavu a&nbsp;aktuální situaci. Respektujte vládní opatření, buďte ohleduplní ke svému okolí a&nbsp;respektujte práva ostatních!</div></strong>
 
-## 1. Cvičení venku &mdash; provazochodci
+## 1. Cvičení venku &mdash; „provazochodci“
 * Sníh zmizel a&nbsp;začalo jarní počasí. Pojďme ho využít a&nbsp;zahrát si na „provazochodce“. Trénovat jde skoro kdekoli.
 
 ### A) Chůze po čáře
@@ -36,23 +36,20 @@ Tipy na pohybové aktivity nejen v Uh. Hradišti zejména pro děti (každého v
 
 <strong style="color: red; background-color: yellow"><p style="color: red; background-color: yellow">POZOR! Prosím, dodržujte veškerá vládní opatření. Choďte jen v&nbsp;počtu, který aktuální opatření dovolují, snažte se nepotkávat se s&nbsp;dalšími. Noste roušky či respirátory tam, kde je větší pohyb lidí. Cíle volíme tak, aby byli v&nbsp;přírodě v&nbsp;místech, kde je pohyb lidí menší. Ale v&nbsp;hezkých dnech samozřejmě vyráží do přírody hodně lidí, respektujte se navzájem a&nbsp;buďte opatrní!</p></strong>
 
-### Cíl
 ![Hřiště v Kunovském lese](mista/hriste-kunovsky-les.jpg)
-
-<iframe style="border:none" src="https://frame.mapy.cz/s/nezumaroge" width="400" height="280" frameborder="0"></iframe>
-- https://mapy.cz/s/fahemefeko
+Odkaz na Mapy.cz: https://mapy.cz/s/fahemefeko
 
 ### Co tam?
 - Zkuste obejít pískoviště po jeho obvodu a&nbsp;nespadnout.
-- Máte tu také hrazdičky.
+- Máte tu také hrazdičky a&nbsp;další prolézačky.
 
 ### Co počasí a&nbsp;počet lidí?
 - Až na paseku v&nbsp;Kunovském lese se dostanete po asfaltu.
 - Je pravda, že na asfaltové cestě bývá za hezkého počasí dost lidí a&nbsp;cyklist. Ale vyhnete se.
 
 ### Parkování
-- https://mapy.cz/s/javazegelo
 - Parkoviště ve Štěpnicích bývají obsazené, doporučujeme tedy zastavit hned za podjezdem pod tratí na parkovišti u&nbsp;nemocnice. 
+- Odkaz na Mapy.cz: https://mapy.cz/s/javazegelo
 
 ## Chcete se potkat či komunikovat alespoň on-line?
 

@@ -71,10 +71,10 @@ Odkaz na Mapy.cz: https://mapy.cz/s/nurehapola
 ### Co tam?
 - Pro menší jsou tu prolézačky a&nbsp;písek.
 - Větší možná využijí sousední workoutové hřiště. Ale bývá hojně využívané.
-- Pokud je hezky a&nbsp;sucho, vezměte si koloběžku nebo kolo. Ve smetanových sadech
+- Pokud je hezky a&nbsp;sucho, vezměte si koloběžku nebo kolo. Ve Smetanových sadech máte spoustu „okruhů“, kde můžete jezdit. Jen dejte pozor na chodce a&nbsp;ostatní cyklisty!
 
 ### Co počasí a&nbsp;počet lidí?
-- Všechny cestičky ve Smetanových sadech jsou asfaltové, takže se dá zvládnout i za mokra.
+- Všechny cestičky ve Smetanových sadech jsou zpevněné, takže ani mokro nevadí.
 
 ### Parkování
 - Nejsnáze zaparkujete u&nbsp;zimního stadionu nebo u&nbsp;Kauflandu.  

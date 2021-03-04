@@ -1,57 +1,86 @@
-# TisFit od 25. února 2021
+# TisFit od 4. března 2021
 Tipy na pohybové aktivity zejména pro děti (každého věku).
 
 <strong style="color: red; background-color: yellow"><div style="color: red; background-color: yellow">Tato stránka není nabídkou tréninkového programu. Pokud se necháte inspirovat, vždy přihlédněte k&nbsp;dlouhodobému i&nbsp;aktuálním zdravotnímu stavu a&nbsp;aktuální situaci. Respektujte vládní opatření, buďte ohleduplní ke svému okolí a&nbsp;respektujte práva ostatních!</div></strong>
 
-## 1. Cvičení venku &mdash; „provazochodci“
-* Sníh zmizel a&nbsp;začalo jarní počasí. Pojďme ho využít a&nbsp;zahrát si na „provazochodce“. Trénovat jde skoro kdekoli.
+## 1. Cvičení venku &mdash; „Tarzan“
+- Minulý týden jsme trénovali rovnováhu. Tentokrát si naši pozornost zaslouží ruce a&nbsp;trup.
+- Najděte si vhodnou prolézačku na dětském hřišti či hrazdičku na workoutovém hřišti a&nbsp;jdeme na to! ;) 
 
-### A) Chůze po čáře
-- Čar najdete všude spousta. Na vašem oblíbeném hřišti jsou obvodové čáry. Na chodníku je spára mezi dlaždicemi. Najděte čáru a&nbsp;zkuste chvíli jít jen po ní.
+### A) Ručkování
+- Najděte si tyč, za kterou se můžete zavěsit rukama a&nbsp;přeručkovat na druhou stranu.
+- Nejsnáze ji najdete na nejbližším hřišti. Na starších sídlištích najdete i&nbsp;rámy pro zavěšení šňůr na prádlo.
+- Menším dětem pomohou rodiče.
+- Pokud to zvládáte, můžete zkusit těžší variantu, kdy zadní ruka přehmatává před přední. Snazší je varianta, kdy je jedna ruka stále vepředu a&nbsp;posunujete se po malých kouscích.
 
-### B) Chůze po obrubníku
-- Najděte si přiměřeně široký obrubník a&nbsp;zkuste jít chvíli po něm.
-- Prosím, nešlapte přitom po trávnících a&nbsp;nepošlapejte do záhonků! Děkuji!
+### B) Ručkování na všech čtyřech &mdash; **jen pod dozorem rodičů**
+- Pokud je pro vás ručkování pouze rukama moc těžké, můžete se zavěsit i&nbsp;nohama. Je to snazší, ale dělejte to jen pod dozorem rodičů!
 
-### C) Chůze po kládě
-- Kde najdete kládu? V&nbsp;lese určitě. Ale můžete využít také různé překážky na dětských či workoutových hřištích.
-- Prosím, nešlapte po zídkách ani po lavičkách. Někdo si na ně bude chtít sednout.
+### C) „Medvěd brtník“
+- Mnoho prolézaček na hřištích má svislé tyče. Zkuste se na některou z&nbsp;nich zavěsit a&nbsp;poproste někoho, ať vám stopne, jesti vydržíte 10, 20 či 30 sekund.
+- Můžete k&nbsp;tomu využít i&nbsp;strom, ale prosím, pouze stromy s&nbsp;pevným kmenem, který nepoškodíte ani mu nezlomíte větev.
+
+### D) Polovýmyky
+- Zkuste si najít tyč, která může fungovat jako hrazda.
+- Zvedněte obě kolena až k&nbsp;tyči a&nbsp;pak je zase pomalu spusťte.
+- Lehčí varianta je tehdy, když je tyč nízko, abyste mohli stát nohama na zemi.
 
 ### Na co si dát pozor!
-1. Před cvičení zpevněte bříško dlouhým výdechem „Ššššššš!“. Pak už volně dýchejte, ale bříško zůstane pevné. 
-2. Hlídejte si, abyste našlapovali třemi body chodidla — patou, bříškem pod palcem a&nbsp;bříškem pod malíčkem. Na všech třech bodech bode stejná váha.
-3. Kolena by měla být nad kotníky, nevytáčejte kolena do stran.
+1. Zkuste i&nbsp;ve visu mít zpevněná ramena a&nbsp;neviset pasivně. Mezi pažemi a&nbsp;ušima by mělo být kousek volného místa.
+2. Je-li tyč dost úzká, snažte se držet palec proti ostatním prstům. Úchop je tak pevnější. Ale na širších tyčích to asi nezvládnete.
 
-![„Provazochodec“](obrazky/aktivita_provazochodec.png)
+![„Tarzan“](obrazky/aktivita_tarzan.png)
 
-## 2. Cvičení doma &mdash; poskoky
-* Každý den si napočítejte 30&nbsp;poskoků. Můžete si je rozdělit na několik částí.
-* Položte si na zem provázek nebo tužku a&nbsp;přeskakujte.
-- Kdo chce cvik těžší, může přeskakovat krabičku od margarínu či od jogurtu.
-* **Nedupejte!** Doskok by měl být plynulý! Sousedi pod vámi nesmí vědět, že cvičíte!
+## 2. Cvičení doma &mdash; „sluníčko“
+- Předpověď nám na tento týden moc sluníčka neslibuje, tak si paprsky sluníčka zkusíme vyčarovat alespoň z&nbsp;rukou. A&nbsp;ještě přitom protáhneme a&nbsp;posílíme záda.
 
-![Přeskoky](obrazky/cvik_poskoky.png)
+### Základní poloha
+- Sedněte si na židli či na paty a&nbsp;srovnejte záda.
+- Ramena stáhněte dolů, bradu mírně přitáhněte k&nbsp;hrudníku, temeno hlavy vytáhněte nahoru.
 
-## 3. Vycházka: hřiště v&nbsp;Kunovském lese (Uherské Hradiště)
+### Upažte dolů
+- Dejte paže šikmo dolů, dlaně vpřed, prsty roztáhněte co nejvíc dokážete.
+- Prsteníčky vytáhněte do dálky, jako byste s&nbsp;nimi chtěli dosáhnout co nejdál.
+
+### Upažte
+- Nyní zvedněte paže do upažení.
+- Ramena musí zůstat dole, lopatky přitažené k&nbsp;zádům.
+- Opět se snažte dostat ruce co nejdál od sebe, tentokrát ruku vede prostředníček.
+
+### Ruce za hlavu
+- Ramena i&nbsp;a&nbsp;lopatky nechte tak, jak jsou, ale ruce přesuňte za hlavu. Lokty tlačte vzad.
+
+### A&nbsp;zase zpět
+- Nyní projděte všechny polohy v&nbsp;opačném pořadí.
+
+### A&nbsp;sluníčko zapadá...
+- Nakonec uvolněte záda a&nbsp;sbalte se do co nejmenšího klubíčka. Pokud sedíte, předkloňte se ke kolenům. Pokud sedíte na patách (klek sedmo), přitiskněte trup na stehna a&nbsp;ruce položte na kolena.
+- Odpočívejte.
+
+### Celé cvičení můžete zopakovat třikrát.
+
+![Protažení zad „Sluníčko“](obrazky/cvik_slunicko.png)
+
+## 3. Vycházka: Smetanovy sady (Uherské Hradiště)
 
 <strong style="color: red; background-color: yellow"><p style="color: red; background-color: yellow">POZOR! Prosím, dodržujte veškerá vládní opatření. Choďte jen v&nbsp;počtu, který aktuální opatření dovolují, snažte se nepotkávat se s&nbsp;dalšími. Noste roušky či respirátory tam, kde je větší pohyb lidí. Cíle volíme tak, aby byli v&nbsp;přírodě v&nbsp;místech, kde je pohyb lidí menší. Ale v&nbsp;hezkých dnech samozřejmě vyráží do přírody hodně lidí, respektujte se navzájem a&nbsp;buďte opatrní!</p></strong>
 
-![Hřiště v Kunovském lese](mista/hriste-kunovsky-les.jpg)
-Odkaz na Mapy.cz: https://mapy.cz/s/fahemefeko
+![Hřiště ve Smetanových sadech](mista/hriste-smetanovy-sady.jpg)
+Odkaz na Mapy.cz: https://mapy.cz/s/nurehapola
 
 ### Co tam?
-- Zkuste obejít pískoviště po jeho obvodu a&nbsp;nespadnout.
-- Máte tu také hrazdičky a&nbsp;další prolézačky.
+- Pro menší jsou tu prolézačky a&nbsp;písek.
+- Větší možná využijí sousední workoutové hřiště. Ale bývá hojně využívané.
+- Pokud je hezky a&nbsp;sucho, vezměte si koloběžku nebo kolo. Ve smetanových sadech
 
 ### Co počasí a&nbsp;počet lidí?
-- Až na paseku v&nbsp;Kunovském lese se dostanete po asfaltu.
-- Je pravda, že na asfaltové cestě bývá za hezkého počasí dost lidí a&nbsp;cyklist. Ale vyhnete se.
+- Všechny cestičky ve Smetanových sadech jsou asfaltové, takže se dá zvládnout i za mokra.
 
 ### Parkování
-- Parkoviště ve Štěpnicích bývají obsazené, doporučujeme tedy zastavit hned za podjezdem pod tratí na parkovišti u&nbsp;nemocnice. 
-- Odkaz na Mapy.cz: https://mapy.cz/s/javazegelo
+- Nejsnáze zaparkujete u&nbsp;zimního stadionu nebo u&nbsp;Kauflandu.  
+- Odkaz na Mapy.cz: https://mapy.cz/s/lacuzacoju
 
-## Chcete se potkat či komunikovat alespoň on-line?
+## Chcete se potkat alespoň on-line?
 
 ### Společné on-line rozcvičky každý čtvrtek 17:45
 - Připojte se pomocí odkazu odkazu: https://meet.google.com/zpr-gwpu-dpa

@@ -86,6 +86,10 @@ Odkaz na Mapy.cz: https://mapy.cz/s/nurehapola
 - Připojte se pomocí odkazu odkazu: https://meet.google.com/zpr-gwpu-dpa
 - Stačí libovolný prohlížeč a&nbsp;reproduktor. Mikrofon nepotřebujete. Funguje i&nbsp;v&nbsp;mobilu.
 
+### Napište nám do diskuse
+- Napište, co se vám líbí! Budeme vědět, že naše činnost má smysl!
+- Diskuse: https://github.com/e-m-s/TisFit/discussions/1
+
 ### Slack pro novinky a společnou diskusi
 - Můžete se přidat do týmu v rámci aplikace Slack. Slack je obdoba Messengeru, ale není svázána s&nbsp;žádnou sociální sítí a&nbsp;nevyžaduje vytvoření klasického účtu, stačí zadat jen e-mail.
 - Odkaz pro přidání je zde: 

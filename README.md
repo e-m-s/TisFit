@@ -1,76 +1,56 @@
-# TisFit od 14. března 2021
+# TisFit od 1. dubna 2021
 Tipy na pohybové aktivity zejména pro děti (každého věku).
 
 <strong style="color: red; background-color: yellow"><div style="color: red; background-color: yellow">Tato stránka není nabídkou tréninkového programu. Pokud se necháte inspirovat, vždy přihlédněte k&nbsp;dlouhodobému i&nbsp;aktuálním zdravotnímu stavu a&nbsp;aktuální situaci. Respektujte vládní opatření, buďte ohleduplní ke svému okolí a&nbsp;respektujte práva ostatních!</div></strong>
 
-## 1. „Schody“
-- Vynech tento týden výtah! Schody jsou super! 
-- Cvič jen po cestě do schodů (nahoru)! Při rychlé chůzi dolů ze schodů hrozí sklouznutí a&nbsp;poranění kotníků! Pamatuj, že nemocnice jsou teď přetížené, nezhoršuj to!
-- Respektuj ostatní! Pozor na hluk! Pokud cvičíš uvnitř budov, cvič jen přes den! (Večer a&nbsp;v&nbsp;noci se vše ozývá.)
+## 1. „Školka s&nbsp;tenisákem“
+- Venku je krásně, tak si najdi rovný betonový plácek a&nbsp;pojď si pohrát s míčkem (je jedno, jaký míč použiješ, ale měl by se dobře odrážet).
 
-### A) 50 schodů denně pro zdraví
-- Počítá se jen cesta nahoru.
-- Snaž se zapojit i&nbsp;ruce jako při běhu.
-- Můžeš si změřit čas, ale s&nbsp;rychlostí to nepřeháněj!
-- Máš doma jen krátké schody? Nevadí, jdi vícekrát.
+### A) Odraz o&nbsp;zem
+- Hoď míčkem o&nbsp;zem a&nbsp;chyť ho.
+- Trénuj obě ruce stejně
+- Můžeš míček odrazem o&nbsp;zem házet z&nbsp;pravé ruky do levé a naopak.
 
-### B) Rychlá chůze/běh do schodů
-- Pokud jsou dlouhé, střídej běh se svižnou chůzí (třeba 20&nbsp;schodů chůze, 20&nbsp;schodů běh).
-- Pokud jsou krátké, můžeš se nejdříve trochu rozehřát poskoky.
+### B) Odraz pod nohou
+- Přidáme rovnováhu: zvedni jednu nohu a&nbsp;hoď míček pravou rukou o&nbsp;zem tak, aby se odrazil pod nohou. Chyť ho druhou rukou.
+- Střídej oba směry.
+- O&nbsp;něco těžší je chytit míček stejnou rukou &mdash; noha přitom nemusí být stále na stejném místě.
 
-### C) Dlouhé kroky (jen nahoru, nikdy dolů!)
-- Zkus chůzi ob jeden nebo ob dva schody.
-- Zkus, kolik schodů překročíš.
+### C) Odraz za zády
+- Zkus hodit míček odrazem od země z&nbsp;levé ruky do pravé, ale tak, aby se odrazil za tvými zády, nikoli před tebou.
 
-### D) Schod místo bedýnky
-- Pokud máš někde jeden větší schodek s&nbsp;rovinou kolem, můžeš ho použít jako „step“ &mdash; střídavě pravou a&nbsp;levou vystupuj nahoru a&nbsp;dolů.
+### D) Odraz s&nbsp;obratem
+- Jsme ve finále &mdash; zkus míček odrazit od země, otočit se dokola a&nbsp;poté míček chytnout, než spadne na zem.
+- Kdo je rychlý, může si sednout a&nbsp;vstát, než míček spadne.
+- Nejrychlejší si zkusí i&nbsp;lehnout &mdash; ale to zkoušej někde, kde je sucho a&nbsp;čisto.
 
 ### Na co si dát pozor!
-Vždycky dbej na bezpečnost a&nbsp;ohleduplnost!
+S&nbsp;míčkem si hrej na hřišti, kde nejezdí auta ani cyklisté a&nbsp;kde nehrozí srážka s&nbsp;chodci!
 
-![„Schody“](obrazky/aktivita_schody.png)
+![„Školka s&nbsp;míčkem“](obrazky/aktivita_skolka-s-mickem.png)
 
-## 2. Protažení &mdash; „sopka“
 
-### Základní poloha
-- Začněte ve vzporu ležmo.
-- Pokud neudržíš bříško zatažené a&nbsp;prohýbají se ti záda v&nbsp;oblasti beder, cvič s&nbsp;koleny na zemi a&nbsp;záda si srovnej.
-
-### Podpor na předloktí &mdash; vzpor
-- Polož levou ruku na předloktí, po ní následuje pravá ruka.
-- Trup je stále zpevněný, hlava v&nbsp;prodloužení trupu, dýchej!
-- Pravá ruka přejde zpět do vzporu, levá následuje.
-- Pak zopakuj totéž v&nbsp;opačném pořadí.
-
-### „Hora“, výbuch sopky
-- Pokud jsi na kolenou, přejdi do vzporu.
-- Vystrč hýždě, propni ramena, kolena napni (co nejvíc).
-- Chvilku propni ramena a&nbsp;kolena, pak postupně přejdi zpět do vzporu ležmo (vzporu na kolenou).
-
-### Celé cvičení zopakuj zopakovat pětkrát.
-
-![„Sopka“](obrazky/cvik_sopka.png)
-
-## 3. Vycházka: Mařatské schody (Uherské Hradiště)
+## 2. Vycházka: jezero za Baťovým kanálem (Uherské Hradiště/Staré Město)
 
 <strong style="color: red; background-color: yellow"><p style="color: red; background-color: yellow">POZOR! Prosím, dodržujte veškerá vládní opatření. Choďte jen v&nbsp;počtu, který aktuální opatření dovolují, snažte se nepotkávat se s&nbsp;dalšími. Noste roušky či respirátory tam, kde je větší pohyb lidí. Cíle volíme tak, aby byli v&nbsp;přírodě v&nbsp;místech, kde je pohyb lidí menší. Ale v&nbsp;hezkých dnech samozřejmě vyráží do přírody hodně lidí, respektujte se navzájem a&nbsp;buďte opatrní!</p></strong>
 
-![Mařatské schody](mista/maratske-schody.jpg)
-![Hřiště 28. října](mista/hriste28rijna.jpg)
+![Jezero za Baťovým kanálem](mista/jezero-stare-mesto.jpg)
 
-Odkaz na Mapy.cz: https://mapy.cz/s/heconaduze
+Odkaz na Mapy.cz: https://mapy.cz/s/kumarogofa
 
 ### Co tam?
-- Lepší schody na cvičení v&nbsp;Hradišti asi nenajdete. Jen pozor, už se místy rozpadají. Neuklouzněte!
-- Od schodů vede opravená pěšinka podélně s&nbsp;ulicí 28. října. Kdo zjistí, o&nbsp;čem je tam naučná stezka? Pochlubte se na Slacku! ;)
-- Na ulici 28. října jsou dvě hřiště.
+- V&nbsp;těchto dnech tam můžete pozorovat labutě.
+- Po cestě můžete zkusit na poli hod hroudou hlíny &mdash; ale nešlapte po poli!
+- Poznáte, jaké stromy kolem jsou nasazeny.
+- Na některých stromech můžete najít stopy bobřích zkoubků.
 
 ### Co počasí a&nbsp;počet lidí?
-- Přístup je po ulicích, cestička pod svahy je vysypaná, pokud není moc mokro, půjde to také.
+- Po pevné cestě se dostanete blízko k&nbsp;jezeru, posledních cca 100&nbsp;metrů už musíte po pěšince. Pokud znovu nenaprší, tak dnes už jsou pěšinky většinou obeschlé.
+- Bohužel, u&nbsp;mola a&nbsp;pláže dnes potkáte lidí hodně. Ale místa je dost a&nbsp;lze udržet přiměřený odstup.
 
 ### Parkování
-- Nejsnáze zaparkujete u&nbsp;zimního stadionu nebo u&nbsp;Kauflandu.  
-- Odkaz na Mapy.cz: https://mapy.cz/s/lacuzacoju
+- Nejsnáze zaparkujete na parkovišti nákupního centra ve Starém Městě.  
+- Odkaz na Mapy.cz: https://mapy.cz/s/bokopopuvo
 
 ## Chcete se potkat alespoň on-line?
 

@@ -54,7 +54,8 @@ Odkaz na Mapy.cz: https://mapy.cz/s/kumarogofa
 
 ## Chcete se potkat alespoň on-line?
 
-### Společné on-line rozcvičky každý čtvrtek 17:45
+### Společné on-line rozcvičky každé úterý 17:45
+- **Pozor! Změna - od 14.4.2021 cvičíme v úterý místo ve čtvrtek!**
 - Připojte se pomocí odkazu odkazu: https://meet.google.com/zpr-gwpu-dpa
 - Stačí libovolný prohlížeč a&nbsp;reproduktor. Mikrofon nepotřebujete. Funguje i&nbsp;v&nbsp;mobilu.
 
